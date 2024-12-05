@@ -21,7 +21,7 @@ student1.isPassed()
 student2=Students("Ali","1057",41)
 student2.displayDetails()
 student2.isPassed()
-student3=Students("Sehar","1001",10)
+student3=Students("Asad","1041",10)
 student3.displayDetails()
 student3.isPassed()
 
